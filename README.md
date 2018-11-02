@@ -1,4 +1,5 @@
 # esx_shops
+This is my modifed version of esx_shops. It allows for more stores with diffrent blips. 
 
 ## Download & Installation
 
