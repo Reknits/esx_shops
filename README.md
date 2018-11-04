@@ -2,20 +2,16 @@
 This is my modifed version of esx_shops. It allows for more stores with diffrent blips. 
 
 ## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-```
-fvm install --save --folder=esx esx-org/esx_shops
-```
+To use this you need to change the config to fit your needs. As is now its for me.
 
 ### Using Git
 ```
 cd resources
-git clone https://github.com/ESX-Org/esx_shops [esx]/esx_shops
+git clone https://github.com/Reknits/esx_shops [esx]/esx_shops
 ```
 
 ### Manually
-- Download https://github.com/ESX-Org/esx_shops/archive/master.zip
+- Download https://github.com/Reknits/esx_shops
 - Put it in the `[esx]` directory
 
 ## Installation
